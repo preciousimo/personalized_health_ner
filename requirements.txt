@@ -1,11 +1,13 @@
 pandas
 numpy
 scikit-learn
+seaborn
+spacy
+sklearn
+sqlalchemy
 torch
 transformers
 nltk
-spacy
 flask
 pytest
 matplotlib
-seaborn
